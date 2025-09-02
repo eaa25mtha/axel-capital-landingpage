@@ -1,0 +1,12 @@
+header{display:flex}
+header #Axel{font-size:80px;}
+header #Capital{font-size:80px;
+padding-left: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    width:47.5% ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
